@@ -4,7 +4,4 @@ this repository contain all the data I use during the development of my tutorial
 
 | **Other datasets**                        | Link to the data         | Observation  |   authors (where available)  |
 | --------------------------------------------- |:-------------------------:| ------------:|----------------:|
-
-
-
 |Covid-19 related time series data         | [JHU github link](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv) | these data were Provided by JHU | John Hopkins University |
